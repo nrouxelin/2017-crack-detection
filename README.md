@@ -14,8 +14,8 @@ Exécuter `crack_detection.m`.
 2. Résolution du problème de Potts avec les poids du filtre de Frangi
 3. Soustraction entre l'image de départ et le résultat.
 4. Pour supprimer le bruit restant, deux possibilités :
-  * Débruitage par la variation totale
-  * Deuxième possibilité :
+   * Débruitage par la variation totale
+   * Deuxième possibilité :
      1. Deuxième utilisation du filtre de Frangi
      2. Deuxième résolution du problème de Potts
      3. Le bruit restant est traité comme un bruit poivre et sel (filtre median)
